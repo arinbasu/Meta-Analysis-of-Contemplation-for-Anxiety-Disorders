@@ -1,9 +1,3 @@
-
-
-```bash
-
-```
-
 ## Introduction
 
 `![Buddha](buddha.jpg)`
